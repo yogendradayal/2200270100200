@@ -71,19 +71,3 @@ Create a .env file in /frontend:
 ```
 VITE_BACKEND_URL=https://your-backend-url.onrender.com
 npm run dev
-```
-## 🙋‍♂️ Author
-Savan Kansagara\
-🔗 Linkdin: [https://www.linkedin.com/in/savan-kansagara/]\
-✉️ Email: important.savan@gmail.com
-
----
-### Let me know if you want:
-- `.env.example` files
-- Screenshots placeholders
-- Badges (build passing, deployed on vercel, etc.)
-- GitHub Pages support (for frontend only projects)
-
-
-
-
