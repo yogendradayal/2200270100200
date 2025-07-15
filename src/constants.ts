@@ -1,0 +1,1 @@
+export const URL = 'https://urlshortner-gpsa.onrender.com'
